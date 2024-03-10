@@ -1,4 +1,4 @@
-<h1 style= "color:cyan; font-family:Times New Roman;font-size:55px"> Consol-Uygulamasi </h1>
+<h1 style= "color:red; font-family:Times New Roman;"> Consol Uygulama Ilk Ornek </h1>
 
 # alsoymetinPROJE1
 
