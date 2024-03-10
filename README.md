@@ -4,6 +4,8 @@
 
 ### Vektörel Bilişim Proje1 Ornek
 <hr>
+<br>
+<img src="projeresimleri/projectgif.gif" alt="PROJE"> <br>
 <img src="projeresimleri/anaekran.PNG" alt="ANA EKRAN">
 <br>
 Projem Ana ekran menuden secim saglar.<br>
